@@ -15,7 +15,7 @@
           <p><%= micropost.content %></p>
         </div>
       </div>
-      <%= render 'favorites/favorite_button', user: user, micropost: micropost %>
+      <%= render 'favorites/favorite_button', {user: user, micropost: micropost} %>
     </li>
   <% end %>
   <%= paginate microposts %>
