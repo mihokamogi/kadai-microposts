@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+micropostというアプリです。
+twitterのようなものです。
 
-Things you may want to cover:
+* 機能一覧
 
-* Ruby version
+ * ユーザ登録／ログイン認証機能
+ * ツイート(Micropost)の一覧表示
+ * フォロー／フォロワー機能
+ 
+ 作成物
+ http://kadai-microposts-finish.herokuapp.com/
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
